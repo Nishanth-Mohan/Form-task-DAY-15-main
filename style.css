@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#title {
+    color: white;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.table tbody tr {
+    vertical-align: middle;
+}
