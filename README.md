@@ -16,5 +16,5 @@
 ### Reset the Form:
 - The form will be cleared after submission, ready for new data entry.
 
-  ### Project Link :https://illustrious-otter-0c7fb4.netlify.app/
+  ### Project Link :https://brilliant-kheer-bf09cb.netlify.app
   ![image](https://github.com/user-attachments/assets/29d45ed6-c419-44ad-bbd3-e3acb891a926)
